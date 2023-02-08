@@ -11,4 +11,5 @@ public class ClassB {
     String b1_m2="b1-m2";
     String b2_m1="b2-m1";
     String b2_m2="b2-m2";
+    String m6="m6";
 }
