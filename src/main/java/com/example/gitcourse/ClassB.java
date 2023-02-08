@@ -5,4 +5,5 @@ public class ClassB {
     int age=27;
     String m1="m1";
     String m2="m2";
+    String m3="m3";
 }
