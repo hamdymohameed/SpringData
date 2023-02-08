@@ -6,12 +6,8 @@ public class ClassB {
     String m1="m1";
     String m2="m2";
     String m3="m3";
-<<<<<<< HEAD
     String m4="m4";
-=======
     String b1_m1="b1-m1";
     String b1_m2="b1-m2";
 
-
->>>>>>> b1
 }
