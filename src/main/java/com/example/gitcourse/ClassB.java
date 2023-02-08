@@ -7,4 +7,7 @@ public class ClassB {
     String m2="m2";
     String m3="m3";
     String b1_m1="b1-m1";
+    String b1_m2="b1-m2";
+
+
 }
