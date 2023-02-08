@@ -7,5 +7,6 @@ public class ClassB {
     String m2="m2";
     String m3="m3";
     String m4="m4";
-    String b1_m1="b1-m1";
+    String b2_m1="b2-m1";
+    String b2_m2="b2-m2";
 }
