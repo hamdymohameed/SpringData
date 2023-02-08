@@ -6,4 +6,5 @@ public class ClassB {
     String m1="m1";
     String m2="m2";
     String m3="m3";
+    String m4="m4";
 }
